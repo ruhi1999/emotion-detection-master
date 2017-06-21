@@ -1,0 +1,13 @@
+{
+  "name": "emotion-server-stub",
+  "version": "0.0.1",
+  "description": "Server stub for emotion project using socket.io",
+  "dependencies": {
+    "botkit": "^0.5.2",
+    "express": "^4.15.2",
+    "socket.io": "^2.0.3"
+  },
+  "scripts": {
+    "start": "node /usr/local/bin"
+  }
+}
